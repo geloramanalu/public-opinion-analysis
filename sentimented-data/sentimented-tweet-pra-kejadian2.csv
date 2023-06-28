@@ -1,0 +1,88 @@
+tweet,Processed Text,sentiment
+komen,['komen'],Positif
+"Nah gini dari pada lo cuma balesin tweet gue, langsung ikutan aja kompetisi","['nah', 'gin', 'pada', 'kamu', 'cuma', 'membalas', 'tweet', 'saya', 'langsung', 'ikut', 'saja', 'kompetisi']",Negatif
+iya iya,"['iya', 'iya']",Positif
+This is awesome :),"['this', 'is', 'awesome']",Negatif
+Sini bagi bahagianya,"['sini', 'bahagia']",Positif
+Kaya sering denger di tv,"['kayak', 'sering', 'dengar', 'tv']",Positif
+Tp d alfa masih?:(,"['tapi', 'di', 'alfa']",Negatif
+nice,['nice'],Positif
+"""Buat yang mau nge dekorasi rumahnya dan butuh furniture berkualitas, bisa banget nih order di kita. Melayani custom sesuai selera","['buat', 'mau', 'nge', 'dekorasi', 'rumah', 'butuh', 'furniture', 'kualitas', 'banget', 'ini', 'order', 'layan', 'custom', 'sesuai', 'selera']",Negatif
+"""",[],Positif
+kalo aku di duain,"['kalau', 'duain']",Positif
+Tumben to,"['tumben', 'tapi']",Negatif
+"kalau kita bahagia otomatis kita bisa berbagi kebahagiaan dengan orang lain kan, karena kalo kita sendiri ga bahagia gimana mau kasih kebahagiaan buat orang lain.","['kalau', 'bahagia', 'otomatis', 'bisa', 'bagi', 'bahagia', 'kan', 'kalau', 'sendiri', 'enggak', 'bahagia', 'bagaimana', 'mau', 'kasih', 'bahagia', 'buat']",Negatif
+bener banget. bahagia-in diri sendiri dulu baru bahagia-in orang lain,"['benar', 'banget', 'bahagiain', 'diri', 'sendiri', 'dulu', 'baru', 'bahagiain']",Positif
+Percuma dapat love di socmed kita banyak kalo pada dasarnya love sendiri pun kita gak bisa,"['percuma', 'love', 'socmed', 'banyak', 'kalau', 'dasar', 'love', 'sendiri', 'enggak']",Negatif
+bener karna bahagia itu udah job desk masing-masing,"['benar', 'karena', 'bahagia', 'sudah', 'job', 'desk', 'masingmasing']",Positif
+Punten.. Nitip nder,"['punten', 'nitip', 'nder']",Negatif
+Makasih ya udah ngetwit ini. Pas banget aku lagi ngerasa kok capek ya ngikutin senengnya orang lain sksksksk,"['terima kasih', 'sudah', 'ngetwit', 'pas', 'banget', 'merasa', 'kok', 'capek', 'mengikuti', 'neng', 'sksksksk']",Positif
+"""Nitip jualan kak","['nitip', 'jual', 'kak']",Positif
+"Hai ada yg suka baca buku atau novel? Aku jual buku original preloved aku nih harganya 20k-40k. Bisa freeongkir lewat shope/tokped juga. Kalau mau nanya2 atau minat bisa langsung dm aku ya""","['hai', 'yang', 'suka', 'baca', 'buku', 'novel', 'jual', 'buku', 'original', 'preloved', 'ini', 'harga', 'kakak', 'freeongkir', 'lewat', 'shopetokped', 'kalau', 'mau', 'bertanya', 'minat', 'langsung', 'dm']",Negatif
+"Kale, tapi kamu salah orang buat ngebagi kebahagiaan itu","['kali', 'salah', 'buat', 'ngebagi', 'bahagia']",Positif
+Yg penasaran nih gaes,"['yang', 'penasaran', 'ini', 'gaes']",Negatif
+"Woy, gua. Jiahhh","['woy', 'saya', 'jiahhh']",Positif
+Bojoku,['bojoku'],Positif
+"tuhkaaan, gimana?","['tuhkaaan', 'bagaimana']",Negatif
+misi numpak lapak,"['misi', 'numpak', 'lapak']",Negatif
+numpang jualan ya kak siapa tau ada yang mau,"['numpang', 'jual', 'kak', 'siapa', 'tahu', 'yang', 'mau']",Positif
+Permisi.. Nitip iklan ya kak,"['permisi', 'nitip', 'iklan', 'kak']",Positif
+"""Nitip ya ka","['nitip', 'kakak']",Positif
+"""",[],Positif
+nitip ya ka,"['nitip', 'kakak']",Positif
+"Denganmu gak perlu ragu, blibli gratis ongkir nomer 1. Kuingin selalu bersamamu, karena aku nomer 1. Terngiang ngiang","['dengan', 'enggak', 'perlu', 'ragu', 'blibli', 'gratis', 'ongkos kirim', 'nomer', 'ingin', 'selalu', 'sama', 'nomer', 'ngiang', 'ngiang']",Positif
+aku udah ikutan. gara2 tweet kamu. kalo aku menang aku gofood - in lawless burger ya buat menu valentine. haha,"['sudah', 'ikut', 'gara', 'tweet', 'kalau', 'menang', 'gofood', 'ini', 'lawless', 'burger', 'buat', 'menu', 'valentine', 'tertawa']",Negatif
+"sana aja. Liat, ujung2nya ada ngga yang bahagia karna kamu(?)","['sana', 'saja', 'lihat', 'ujung', 'tidak', 'bahagia', 'karena']",Positif
+Quote of the day,"['quote', 'of', 'the', 'day']",Positif
+"""Nih ada film pendek, mengharukan, bikinan saya dkk.","['ini', 'film', 'pendek', 'harus', 'bikin', 'dan kawan-kawan']",Negatif
+"""",[],Positif
+Izin memperluas informasi...,"['izin', 'luas', 'informasi']",Positif
+"""Oh senangnya kujalani indahnya hari ini","['senang', 'jalan', 'indah', 'hari']",Positif
+Bersamamu setiap waktu jadikanku nomor satu,"['sama', 'waktu', 'jadi', 'nomor', 'satu']",Positif
+Semua yang kumau Blibli kirim cepat selalu,"['semua', 'mau', 'blibli', 'kirim', 'cepat', 'selalu']",Positif
+Denganmu ga perlu ragu Blibli bebas ongkir nomor satu,"['dengan', 'enggak', 'perlu', 'ragu', 'blibli', 'bebas', 'ongkos kirim', 'nomor', 'satu']",Negatif
+Ku ingin selalu bersama karena aku nomor satu,"['ku', 'selalu', 'sama', 'nomor', 'satu']",Positif
+"Kenapa gue terngiang2 itu terus njir""","['saya', 'ngiang', 'terus', 'anjir']",Positif
+Ayo bang kita bahagia bareng bareng,"['ayo', 'bang', 'bahagia', 'bareng', 'bareng']",Positif
+Iya iya iklan blibli,"['iya', 'iya', 'iklan', 'blibli']",Positif
+"""nitip jualan ya kak karna pandemi udah dirumahkan 8 bln jd mulai usaha kecil""""an murah"""" bgt ini start dari harga 15.000 bisa check shopee aku di Balievshop: ""","['nitip', 'jual', 'kak', 'karena', 'pandemi', 'sudah', 'rumah', 'bulan', 'jadi', 'mulai', 'usaha', 'kecil', 'murah', 'banget', 'start', 'harga', 'check', 'shopee', 'balievshop']",Positif
+Aww,['aww'],Positif
+Thank you kak Dhito udah berbagi kebahagiaan lewat musik-musik lo yang keren,"['thank', 'you', 'kak', 'dhito', 'sudah', 'bagi', 'bahagia', 'lewat', 'musikmusik', 'kamu', 'keren']",Positif
+Temen gw nih!,"['teman', 'saya', 'ini']",Negatif
+masih kalah dengan yang mulai dari 0 ya ka :D,"['kalah', 'yang', 'mulai', 'iya', 'kakak', 'di']",Positif
+Nih pasti bli bli dot kom ya beb,"['ini', 'beli', 'beli', 'dot', 'kom', 'sayang']",Positif
+"buat orang lain bahagia,aku juga ikut bahagia :)","['buat', 'bahagiaaku', 'ikut', 'bahagia']",Positif
+Kak mohon maaf izin nitip lapak ya,"['kak', 'mohon', 'maaf', 'izin', 'nitip', 'lapak']",Negatif
+"""Gue bacanya kaya nada iklan tadi gara-gara abis dengerin iklan """"karena aku nomor 1"""" wkwk""","['saya', 'baca', 'kayak', 'nada', 'iklan', 'tadi', 'garagara', 'habis', 'dengarkan', 'iklan', 'nomor', 'wkwk']",Negatif
+ya mas,['mas'],Negatif
+kata kale bilang ke awan kebahagiaan orang lain bukan tanggung jawab kita,"['kata', 'kali', 'bilang', 'awan', 'bahagia', 'bukan', 'tanggung', 'jawab']",Positif
+Nitip jualan ka,"['nitip', 'jual', 'kakak']",Positif
+Blibli bang?,"['blibli', 'bang']",Positif
+bahagia kamu aja dibagi-bagi apalagi cinta kamu HAHAHAHA,"['bahagia', 'saja', 'dibagibagi', 'cinta', 'hahahaha']",Positif
+Sumpah gue bacanya pake nada ardhito di iklan,"['sumpah', 'saya', 'baca', 'pakai', 'nada', 'ardhito', 'iklan']",Positif
+Belanja di Lazada aja,"['belanja', 'lazada', 'saja']",Negatif
+HAHAHA bernada,"['hahaha', 'nada']",Positif
+Yaassshh,['yaassshh'],Positif
+Gua kira iklan blibli,"['saya', 'kira', 'iklan', 'blibli']",Negatif
+iya sayang,"['iya', 'sayang']",Positif
+Jadi inget iklan blibli,"['jadi', 'ingat', 'iklan', 'blibli']",Positif
+Dhit rokok lu apa dhit?,"['dhit', 'rokok', 'kamu', 'apa', 'dhit']",Negatif
+Setuju sekali,"['tuju', 'sekali']",Positif
+Blibli detected.,"['blibli', 'detected']",Positif
+ini dito ato kale yang pegang twt,"['dito', 'atau', 'kali', 'pegang', 'twt']",Negatif
+ini kale apa dito yg nge tweet?,"['kali', 'apa', 'dito', 'yang', 'nge', 'tweet']",Negatif
+Ku ingin selalu bersamamu.. Karna aku nomor 1,"['ku', 'selalu', 'sama', 'karena', 'nomor']",Positif
+mas dhito andalanku,"['mas', 'dhito', 'andal']",Negatif
+hmm yuk ikutan event Denmark dan Korea di Pre event P4G,"['hmm', 'yuk', 'ikut', 'event', 'denmark', 'korea', 'pre', 'event', 'pagi']",Positif
+Terima kasih telah memberikan rasa bahagia kepada para penikmat musik bang ardhito!  Jangan lupa minum Joss C 1000 untuk mengembalikan daya tahan tubuh setelah beraktifitas,"['terima', 'kasih', 'beri', 'rasa', 'bahagia', 'para', 'nikmat', 'musik', 'bang', 'ardhito', 'jangan', 'lupa', 'minum', 'joss', 'sih', 'kembali', 'daya', 'tahan', 'tubuh', 'beraktifitas']",Positif
+Halllow,['halllow'],Positif
+"""Orang Baik Bantu Retweet!","['baik', 'bantu', 'retweet']",Positif
+"PELIT RETWEET REZEKI NYA SEMPIT!!""","['pelit', 'retweet', 'rezeki', 'nya', 'sempit']",Positif
+"""permisii numpang jualan yaa","['misi', 'numpang', 'jual', 'ya']",Negatif
+"""",[],Positif
+hai kak maaf numpang ngelapak makasi,"['hai', 'kak', 'maaf', 'numpang', 'ngelapak', 'makas']",Negatif
+~~ iklan yaa kak,"['iklan', 'ya', 'kak']",Positif
+izin numpang jualan kak,"['izin', 'numpang', 'jual', 'kak']",Positif
+"halooo, aku jual netflix viu dll yuk dm langsung ready gapake nunggu setelah transfer","['halo', 'jual', 'netflix', 'viu', 'yuk', 'dm', 'langsung', 'ready', 'enggak pakai', 'menunggu', 'transfer']",Negatif
+"""",[],Positif
+"songs that make your day feel better""","['songs', 'that', 'memakai', 'your', 'day', 'feel', 'better']",Positif
